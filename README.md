@@ -1,1 +1,1 @@
-# DATA-ANALYSIS-USING-POWER-BI
+This data analysis focuses on creating comprehensive visualizations to analyze and interpret a financial dataset. The objective is to transform raw financial data into meaningful insights through various graphical representations, allowing users to easily understand trends, patterns, and relationships within the data.
